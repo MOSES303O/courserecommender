@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YOUR SUBJECTS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <fieldset>
+            <legend>Choose Subjects:</legend>
+      
+            <!-- Pre-selected subjects -->
+            <label>
+              <input type="checkbox" name="subjects[]" value="MATHEMATICS" checked disabled>
+              MATHEMATICS
+              <select name=Grades>
+                <option value="A">A</option>
+                <option value="A-">A-</option>
+                <option value="B+">B+</option>
+                <option value="B">B</option>
+                <option value="B-">B-</option>
+                <option value="C+">C+</option>
+                <option value="C">C</option>
+                <option value="C-">C-</option>
+                <option value="D+">D+</option>
+                <option value="D">D</option>
+                <option value="D-">D-</option>
+                <option value="E">E</option>               
+                </select>
+            </label>
+            <label>
+              <input type="checkbox" name="subjects[]" value="CHEMISTRY" checked disabled>
+              CHEMISTRY
+              <select name=Grades>
+                <option value="A">A</option>
+                <option value="A-">A-</option>
+                <option value="B+">B+</option>
+                <option value="B">B</option>
+                <option value="B-">B-</option>
+                <option value="C+">C+</option>
+                <option value="C">C</option>
+                <option value="C-">C-</option>
+                <option value="D+">D+</option>
+                <option value="D">D</option>
+                <option value="D-">D-</option>
+                <option value="E">E</option>               
+                </select>
+            </label>
+            <label>
+              <input type="checkbox" name="subjects[]" value="ENGLISH" checked disabled>
+              ENGLISH
+              <select name=Grades>
+                <option value="A">A</option>
+                <option value="A-">A-</option>
+                <option value="B+">B+</option>
+                <option value="B">B</option>
+                <option value="B-">B-</option>
+                <option value="C+">C+</option>
+                <option value="C">C</option>
+                <option value="C-">C-</option>
+                <option value="D+">D+</option>
+                <option value="D">D</option>
+                <option value="D-">D-</option>
+                <option value="E">E</option>               
+                </select>
+            </label>
+            <label>
+              <input type="checkbox" name="subjects[]" value="KISWAHILI" checked disabled>
+              KISWAHILI
+              <select name=Grades>
+                <option value="A">A</option>
+                <option value="A-">A-</option>
+                <option value="B+">B+</option>
+                <option value="B">B</option>
+                <option value="B-">B-</option>
+                <option value="C+">C+</option>
+                <option value="C">C</option>
+                <option value="C-">C-</option>
+                <option value="D+">D+</option>
+                <option value="D">D</option>
+                <option value="D-">D-</option>
+                <option value="E">E</option>               
+                </select>
+            </label>
+      
+            <!-- User-selectable subjects -->
+            <label>
+              <input type="checkbox" name="subjects[]" value="BIOLOGY" onchange="toggleCheckbox(this)">
+              BIOLOGY
+              <select name="Grades"  disabled>
+                <option value="A">A</option>
+                <option value="A-">A-</option>
+                <option value="B+">B+</option>
+                <option value="B">B</option>
+                <option value="B-">B-</option>
+                <option value="C+">C+</option>
+                <option value="C">C</option>
+                <option value="C-">C-</option>
+                <option value="D+">D+</option>
+                <option value="D">D</option>
+                <option value="D-">D-</option>
+                <option value="E">E</option>               
+                </select>
+            </label>
+            <label>
+              <input type="checkbox" name="subjects[]" value="GEOGRAPHY" onchange="toggleCheckbox(this)">
+              GEOGRAPHY
+              <select name="Grades"  disabled>
+                <option value="A">A</option>
+                <option value="A-">A-</option>
+                <option value="B+">B+</option>
+                <option value="B">B</option>
+                <option value="B-">B-</option>
+                <option value="C+">C+</option>
+                <option value="C">C</option>
+                <option value="C-">C-</option>
+                <option value="D+">D+</option>
+                <option value="D">D</option>
+                <option value="D-">D-</option>
+                <option value="E">E</option>               
+                </select>
+            </label>
+            <label>
+              <input type="checkbox" name="subjects[]" value="PHYSICS" onchange="toggleCheckbox(this)">
+              PHYSICS
+              <select name="Grades"  disabled>
+                <option value="A">A</option>
+                <option value="A-">A-</option>
+                <option value="B+">B+</option>
+                <option value="B">B</option>
+                <option value="B-">B-</option>
+                <option value="C+">C+</option>
+                <option value="C">C</option>
+                <option value="C-">C-</option>
+                <option value="D+">D+</option>
+                <option value="D">D</option>
+                <option value="D-">D-</option>
+                <option value="E">E</option>               
+                </select>
+            </label>
+            <label>
+                <input type="checkbox" name="subjects[]" value="BUSINESS" onchange="toggleCheckbox(this)">
+                BUSINESS
+                <select name="Grades"  disabled>
+                  <option value="A">A</option>
+                  <option value="A-">A-</option>
+                  <option value="B+">B+</option>
+                  <option value="B">B</option>
+                  <option value="B-">B-</option>
+                  <option value="C+">C+</option>
+                  <option value="C">C</option>
+                  <option value="C-">C-</option>
+                  <option value="D+">D+</option>
+                  <option value="D">D</option>
+                  <option value="D-">D-</option>
+                  <option value="E">E</option>               
+                  </select>
+              </label>
+              <label>
+                <input type="checkbox" name="subjects[]" value="AGRICULTURE" onchange="toggleCheckbox(this)">
+                AGRICULTURE
+                <select name="Grades"  disabled>
+                  <option value="A">A</option>
+                  <option value="A-">A-</option>
+                  <option value="B+">B+</option>
+                  <option value="B">B</option>
+                  <option value="B-">B-</option>
+                  <option value="C+">C+</option>
+                  <option value="C">C</option>
+                  <option value="C-">C-</option>
+                  <option value="D+">D+</option>
+                  <option value="D">D</option>
+                  <option value="D-">D-</option>
+                  <option value="E">E</option>               
+                  </select>
+              </label>
+              <label>
+                <input type="checkbox" name="subjects[]" value="MUSIC" onchange="toggleCheckbox(this)">
+                MUSIC
+                <select name="Grades"  disabled>
+                  <option value="A">A</option>
+                  <option value="A-">A-</option>
+                  <option value="B+">B+</option>
+                  <option value="B">B</option>
+                  <option value="B-">B-</option>
+                  <option value="C+">C+</option>
+                  <option value="C">C</option>
+                  <option value="C-">C-</option>
+                  <option value="D+">D+</option>
+                  <option value="D">D</option>
+                  <option value="D-">D-</option>
+                  <option value="E">E</option>               
+                  </select>
+              </label>
+              <label>
+                <input type="checkbox" name="subjects[]" value="METAL WORKS" onchange="toggleCheckbox(this)">
+                METAL WORKS
+                <select name="Grades"  disabled>
+                  <option value="A">A</option>
+                  <option value="A-">A-</option>
+                  <option value="B+">B+</option>
+                  <option value="B">B</option>
+                  <option value="B-">B-</option>
+                  <option value="C+">C+</option>
+                  <option value="C">C</option>
+                  <option value="C-">C-</option>
+                  <option value="D+">D+</option>
+                  <option value="D">D</option>
+                  <option value="D-">D-</option>
+                  <option value="E">E</option>               
+                  </select>
+              </label>
+            <!-- Add more subjects as needed -->
+      
+          </fieldset>
+      
+          <input type="submit" value="Submit">
+    </div>   
+    <script>
+        function toggleCheckbox(select) {
+           // var selectedCheckboxes = document.querySelectorALL('input[name="subjects[]"]:checked');
+            var scoreInput = select.parentNode.querySelector('select[name="Grades"]');
+            scoreInput.disabled = !select.checked;
+            scoreInput.style.display = select.checked ?'block' : 'none';
+        // Check if the checkbox is disabled
+
+      // Clear the score when unchecked a subject
+      if (!select.checked) {
+        scoreInput.value = '';
+      }
+      var selectedSubjects = document.querySelectorAll('input[name="subjects[]"]:checked');
+
+      // Check if the user has selected more than 9 subjects
+      if (selectedSubjects.length > 9) {
+        alert("You can select at most 9 subjects.");
+        select.checked = false; // Reset the selection
+        scoreInput.disabled = true;
+        scoreInput.style.display = 'none';
+      }
+
+      // Check if the user has selected fewer than 7 subjects
+      if (selectedSubjects.length < 4) {
+        //alert("First select at least 7 subjects then enter the Grades.");
+        select.checked = true; // Reset the selection
+        scoreInput.disabled = true;
+        scoreInput.style.display = 'none';
+      }
+        }
+      </script> 
+</body>
+</html>

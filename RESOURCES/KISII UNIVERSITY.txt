@@ -1,0 +1,125 @@
+SCHOOLS:
+SCHOOL OF AGRICULTURE AND NATURAL RESOURCES MANAGEMENT
+SCHOOL OF ARTS AND SOCIAL SCIENCE
+SCHOOL OF BUSINESS AND ECONOMICS
+SCHOOL OF EDUCATION AND HUMAN RESOURCE DEVELOPMENT
+SCHOOL OF HEALTH SCIENCES
+SCHOOL OF INFORMATION & TECHNOLOGY
+SCHOOL OF LAW
+SCHOOL OF PURE AND APPLIED SCIENCE
+
+SCHOOL OF AGRICULTURE AND NATURAL RESOURCES MANAGEMENT:
+DEPARTMENTS
+Department of Natural Resources
+Department of Agricultural Sciences
+Department of Agricultural Education and Extension
+Department of Applied aquatic Sciences
+
+PROGRAMMES:
+PhD in Agricultural Education& Extension
+Msc. in Agricultural Extension
+Bachelor of Science in Agricultural Education & Extension (AGED)
+Bachelor of Science in Agricultural Extension & Rural Development
+Diploma in Agricultural Economics
+
+SCHOOL OF EDUCATION AND HUMAN RESOURCE DEVELOPMENT:
+DEPARTMENTS
+Department Of Educational Foundations & Educational Administration Planning and Economics of Education
+DEPARTMENT OF CURRICULUM INSTRUCTION AND MEDIA (CIM)
+Department Of EARLY CHILDHOOD DEVELOPMENT EDUCATION (ECDE), SPECIAL NEEDS EDUCATION (SNE) & EDUCATIONAL PSYCHOLOGY (EPSC)
+
+PROGRAMMES:
+PhD in Curriculum (Curriculum & Instruction OR Instruction & Media)
+Master of Education in (Curriculum and Instruction
+Bachelor of Education (Arts) in any of the following two subjects (English, Literature, Mathematics, Geography, History, Business, Kiswahili, Religion)
+Bachelor of Education (Primary Option)
+Bachelor of Education (Special Needs Education)
+
+SCHOOL OF ARTS AND SOCIAL SCIENCE:
+DEPARTMENTS
+Department of Psychology
+Department of Political Science & Peace Studies
+Department of History
+Department of Languages, Linguistics, and Literature
+Department of Geography
+Department of Sociology, Gender & Development Studies
+Department of Philosophy and Religious Studies
+
+PROGRAMMES
+PhD in History
+MA in History
+BA (History)
+PhD in Geography
+MA in Geography
+
+SCHOOL OF BUSINESS AND ECONOMICS:
+DEPARTMENTS
+Department of Accounting and Finance
+Department of Business Administration
+Department of Management Science
+Department of Tourism and Hospitality Management
+Department of Human Resource and Strategic Management
+
+PROGRAMMES
+Doctor of Philosophy in Business Administration
+Master of Business Administration
+Master of Science in Finance and Investments
+Bachelor of Commerce
+Bachelor of Business and Management
+
+SCHOOL OF HEALTH SCIENCES:
+DEPARTMENTS
+Department of Biomedical Science & Technology
+Department of Clinical Medicine and Surgery
+Department of Pharmacy
+Department Of Medical Microbiology And Parasitology
+Department of Public Health
+Department of Community Health & Development
+Department of Medical Laboratory
+Department Of Nursing
+Department of Medicine
+Department Of Food and Nutrition
+DEPARTMENT OF MEDICAL MICROBIOLOGY AND PARASITOLOGY
+
+PROGRAMMES
+PhD in Biomedical Sciences
+Msc. in Biomedical Sciences
+Bachelor of Biomedical Science and Technology,
+Bachelor of Science in Clinical Medicine and Surgery (upgrading) (September Intake only)
+Bachelor of Science in Clinical Medicine and Surgery (Direct entry)
+
+SCHOOL OF INFORMATION AND TECHNOLOGY:
+DEPARTMENTS
+Department of Computing Science
+Department Of Communication & Media
+Department of Library and Information Science
+
+PROGRAMMES
+PhD in Knowledge Management
+Master of Knowledge Management
+Bachelor of Information Science
+Diploma in Library and Information Science
+PhD in Information Systems
+
+SCHOOL OF LAW:
+DEPARTMENTS
+Department of Law
+
+PROGRAMMES
+Bachelor of Laws (Intake : September Only)
+Diploma in Laws (January & September Intakes)
+
+SCHOOL OF PURE AND APPLIED SCIENCE:
+DEPARTMENTS
+Department of Biological Sciences
+Department of Mathematics and Actuarial sciences
+Department of Chemistry
+Department of Biological Sciences
+Department of Physics
+
+PROGRAMMES
+Doctor of Philosophy in Physics
+Master of Science in Physics
+Bachelor of Science in Geophysical and Mineralogy
+Bachelor of Science in Renewable Energy
+Bachelor of Science in Physics

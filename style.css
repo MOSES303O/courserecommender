@@ -1,0 +1,131 @@
+@import url("");
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background: #1F1C2C;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #928DAB, #1F1C2C);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #928DAB, #1F1C2C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    
+}
+.mcontainer{
+    width: 400px;
+    background-color: gray;
+    box-shadow:rgb(60, 160, 81);
+    overflow: hidden;
+    border-radius: 10px;
+}
+img{
+    max-width: 100%;
+}
+header{
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+header input{
+    border-radius: 3px;
+    padding:0.3rem 1rem;
+    border:none;
+    background-color: #b8b2d4;
+}
+header button{
+    font-size: 1rem;
+    background-color:transparent;
+    border:none;
+    color: #b8b2d4;
+}
+.fcontainer{
+    padding: 1rem;
+    text-align: center;
+    background-color: #7a7883;
+}
+ul.fmeal{
+display: flex;
+/*flex-wrap: wrap;*/
+padding:0;
+margin: 0;
+ overflow-x: auto;
+white-space: nowrap;
+list-style-type: none;
+overflow: hidden;
+cursor:grab;
+/*justify-content: center;*/
+}
+.fmeal li{
+   width:100px;
+   margin-right: 20px;/**/
+}
+.fmeal li img{
+    border-radius: 50%;
+    object-fit:cover;
+    box-shadow: 0 0 10px;
+    height: 100px;
+    max-width: 100px;
+    display: block;
+    
+}
+.fmeal li span{
+    font-size: 15px;
+}
+.meal{
+    margin:10px;
+    box-shadow: 0 0 10px;
+    border-radius: 10px;
+    margin: 0.9em;
+    overflow: hidden;
+}
+.mealheader{
+    position: relative;
+}
+.mealheader .random{
+    position: absolute;
+    background-color: rgb(46, 127, 165);
+    top:1rem;
+    padding: 0.5em 0.95em;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.mealheader img{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+.mealbody{
+   display:flex;
+   justify-content: space-between; 
+   align-items: center;
+   padding:1em;
+}
+.mealbody button{
+    border: none;
+    background-color: transparent;
+    color:#fc0707;
+    cursor:pointer;
+    font-size: 2em;
+}
+.cont{
+    display:flex;
+}
+#ss{
+    width: 50%;
+    height:25em;
+}
+#ss p{
+    overflow: scroll;
+}
+#chuo table{ 
+width: 100%;
+}
+#chuo table tr{
+ display: flex;
+ justify-content:space-evenly;
+ align-items: center;
+}
